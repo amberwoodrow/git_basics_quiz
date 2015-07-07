@@ -6,7 +6,7 @@ Amber
 
 ###What is your favorite color?
 
-Your answer goes here
+red
 
 ###Cats or Dogs?
 
